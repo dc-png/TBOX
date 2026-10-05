@@ -78,14 +78,14 @@ TBOX 是一个 **Xposed 模块**，它在国服版《我的世界：基岩版》
 
 ```bash
 cd /path/to/workspace
-unzip TBOX_Xposed_Module.zip   # 或者手动复制 FixedProject 文件夹
+unzip FixedProject.zip   # 或者手动复制 FixedProject 文件夹
 ```
 
 如果您希望使用 Git：
 
 ```bash
-git clone https://github.com/yourname/TBOX_Xposed_Module.git
-cd TBOX_Xposed_Module
+git clone https://github.com/dc-png/TBOX.git
+cd TBOX
 ```
 
 ### 2. 在 Android Studio 中打开
